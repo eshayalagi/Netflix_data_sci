@@ -129,4 +129,3 @@ An engaging, visual deep-dive into Netflix’s content library using Python. Whe
 
 ---
 
-Let me know if you want this also as a downloadable `README.md` file!
